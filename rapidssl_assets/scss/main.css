@@ -210,6 +210,8 @@ body {
   margin-bottom: 1.5rem;
 }
 .row-design_gap .second_image {
+  display: flex;
+  justify-content: flex-end;
   box-sizing: border-box;
   transition: all 0.3s ease-in;
 }

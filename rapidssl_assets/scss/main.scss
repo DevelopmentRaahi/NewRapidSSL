@@ -291,6 +291,8 @@ $one_two_three_color :rgb(255 89 18);
         }
 
         .second_image {
+            display: flex;
+            justify-content: flex-end;
             box-sizing: border-box;
             transition: all 0.3s ease-in;
 
